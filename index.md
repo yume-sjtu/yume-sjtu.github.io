@@ -1,14 +1,12 @@
 <img src="./jinmeng.jpg" width = "170" height = "240"  align=left />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Meng Jin**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Assistant Professor</strong>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Assistant Professor**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>John Hopcroft Center for Computer Science</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shanghai Jiao Tong University</strong>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**John Hopcroft Center for Computer Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Shanghai Jiao Tong University**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contact**:
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contact</strong>:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinm@sjtu.edu.cn  
 
