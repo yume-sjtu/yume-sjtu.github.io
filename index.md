@@ -22,7 +22,8 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ## Research Interest:
 
-**Wireless communication:** Backscatter communication; Wireless coexistence   
+**Wireless communication:** Backscatter communication; Wireless coexistence  
+
 **Ubiquitous computing:** Wireless sensing; RFID systems; Wearable sensing
 
 ## Awards:
