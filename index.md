@@ -1,6 +1,6 @@
 # Jin Meng
 
-<img src="./jinmeng.jpg" width = "150" height = "200"  align=left />  
+<img src="./jinmeng.jpg" width = "160" height = "220"  align=left />  
 
      Assistant Professor
 
