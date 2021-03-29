@@ -1,4 +1,4 @@
-<img src="./jinmeng.jpg" width = "160" height = "230"  align=left />
+<img src="./jinmeng.jpg" width = "170" height = "240"  align=left />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Meng Jin**  
 
