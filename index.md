@@ -1,5 +1,5 @@
 # Jin Meng
-
+![avatar](/jinmeng.jpg)
 Assistant Professor
 
 John Hopcroft Center for Computer Science
