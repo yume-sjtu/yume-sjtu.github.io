@@ -1,4 +1,4 @@
-<img src="./jinmeng.jpg" width = "170" height = "240"  align=left />
+<img src="./jinmeng.jpg" width = "150" height = "230"  align=left />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Assistant Professor</strong>  
