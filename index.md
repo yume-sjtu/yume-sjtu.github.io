@@ -1,5 +1,5 @@
 
-![Branching](https://github.com/yume-sjtu/jinmeng.github.io/blob/gh-pages/jinmeng.jpg)
+![Branching](https://github.com/yume-sjtu/jinmeng.github.io/blob/gh-pages/jinmeng.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
