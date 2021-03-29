@@ -1,5 +1,6 @@
 # Jin Meng
-![avatar](/jinmeng.jpg)
+
+<img src="/jinmeng.jpg" width = "300" height = "200"  align=left />  
 Assistant Professor
 
 John Hopcroft Center for Computer Science
