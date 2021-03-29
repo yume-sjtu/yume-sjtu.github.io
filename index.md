@@ -28,9 +28,9 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ## Awards:
 
-2019 ACM China Doctoral Dissertation Award (2019 ACM中国优秀优秀博士论文奖)  
+2019 ACM China Doctoral Dissertation Award (2019 ACM中国优秀博士论文奖)  
 
-2019 CCF Outstanding Doctoral Dissertation Award (2019 CCF优秀优秀博士论文奖)
+2019 CCF Outstanding Doctoral Dissertation Award (2019 CCF优秀博士论文奖)
 
 ## Selected Publications:
 
