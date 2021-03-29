@@ -1,7 +1,6 @@
-# Jin Meng
-
 <img src="./jinmeng.jpg" width = "160" height = "220"  align=left />  
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Meng Jin**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Assistant Professor**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**John Hopcroft Center for Computer Science**  
