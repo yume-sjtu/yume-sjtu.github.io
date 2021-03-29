@@ -2,16 +2,15 @@
 
 <img src="./jinmeng.jpg" width = "160" height = "220"  align=left />  
 
-     Assistant Professor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Assistant Professor**
 
-     John Hopcroft Center for Computer Science
-     Shanghai Jiao Tong University
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**John Hopcroft Center for Computer Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Shanghai Jiao Tong University**
 
-     Contact:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contact**:
 
-     SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai
-
-     jinm@sjtu.edu.cn  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinm@sjtu.edu.cn  
 
 
 
