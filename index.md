@@ -1,6 +1,3 @@
----
-![证件照](/jinmeng.jpeg)
----
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
