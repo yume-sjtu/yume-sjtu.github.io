@@ -1,6 +1,7 @@
 # Jin Meng
 
-<img src="/jinmeng.jpg" width = "300" height = "200"  align=left />  
+<img src="./jinmeng.jpg" width = "150" height = "200"  align=left />  
+
 Assistant Professor
 
 John Hopcroft Center for Computer Science
@@ -10,7 +11,9 @@ Contact:
 
 SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai
 
-jinm@sjtu.edu.cn
+jinm@sjtu.edu.cn  
+
+
 
 ## About me:
 
