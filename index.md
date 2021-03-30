@@ -46,7 +46,7 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 5.**Meng Jin**, Yuan He, Xin Meng, DingyiFang, Xiaojiang Chen, “Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You”, IEEE Transections on Networking (TON, CCF-A).  
 
-6.**Yuan He**, Yilun Zheng, Meng Jin, Songzhen Yang, Xiaolong Zheng, Yunhao Liu, “RED: RFID-based Eccentricity Detecti1on for High-speed Rotating Machinery” , IEEE Transections on Mobile Computing (TMC, CCF-A).  
+6.Yuan He, Yilun Zheng, **Meng Jin**, Songzhen Yang, Xiaolong Zheng, Yunhao Liu, “RED: RFID-based Eccentricity Detecti1on for High-speed Rotating Machinery” , IEEE Transections on Mobile Computing (TMC, CCF-A).  
 
 ### Conference:  
 
