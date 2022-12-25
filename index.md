@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shanghai Jiao Tong University</strong>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contact</strong>:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-407, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinm@sjtu.edu.cn  
 
 
