@@ -36,17 +36,27 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ### Journal:  
 
-1.**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, Parallel Backscatter: Channel Estimation and Beyond, IEEE/ACM Transactions on Networking, 2021 (ToN, CCF-A). 
+1.	**Meng Jin***, Xinbing Wang, Chenghu Zhou, “Key Agreement on IoT Devices with Echo Profiling”, IEEE Transections on Networking (TON, CCF-A). 2022
 
-2.**Meng Jin**, Yuan He, Xiaolong Zheng, Dingyi Fang, Dan Xu, Tianzhang Xing, Xiaojiang Chen, “Exploiting Interference Fingerprints for Predictable Wireless Concurrency”, IEEE Transections on Mobile Computing (TMC, CCF-A).  
+2.	**Meng Jin**, Yuan He, Songzhen Yang, Yunhao Liu, Li Yan, Yuyi Sun, "Versatile RFID-based Sensing: Model, Algorithm, and Applications", IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
 
-3.**Meng Jin**, Yuan He, Xin Meng, Yilun Zheng, Dingyi Fang, Xiaojiang Chen, “FlipTracer: Practical Parallel Decoding for Backscatter Communication”, IEEE Transections on Networking (TON, CCF-A).  
+3.	Songzhou Yang, **Meng Jin**, Yuan He, “Continuous Gaze Tracking With Implicit Saliency-Aware Calibration on Mobile Devices” , IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
 
-4.**Meng Jin**, Yuan He, Dingyi Fang, Xiaojiang Chen, Xin Meng, Tianzhang Xing, “iGuard: A Real-Time Anti-Theft System for Smartphones”, IEEE Transections on Mobile Computing (TMC, CCF-A).  
+4.	Junchen Guo, Yuan He, Chengkun Jiang, **Meng Jin**, Shuai Li, Jia Zhang, Rui Xi, Yunhao Liu, "Measuring Micrometer-Level Vibrations with mmWave Radar", IEEE Transactions on Mobile Computing (TMC, CCF-A). 2021
 
-5.**Meng Jin**, Yuan He, Xin Meng, DingyiFang, Xiaojiang Chen, “Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You”, IEEE Transections on Networking (TON, CCF-A).  
+5.	**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, " Parallel Backscatter: Channel Estimation and Beyond ", IEEE Transections on Networking (TON, CCF-A). 2021
 
-6.Yuan He, Yilun Zheng, **Meng Jin**, Songzhen Yang, Xiaolong Zheng, Yunhao Liu, “RED: RFID-based Eccentricity Detecti1on for High-speed Rotating Machinery” , IEEE Transections on Mobile Computing (TMC, CCF-A).  
+6.	**Meng Jin**, Yuan He, Xin Meng, Dingyi Fang, Xiaojiang Chen, "Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You", IEEE Transections on Networking (TON, CCF-A). 2020
+
+7.	**Meng Jin**, Yuan He, Xiaolong Zheng, Dingyi Fang, Dan Xu, Tianzhang Xing, Xiaojiang Chen, “Exploiting Interference Fingerprints for Predictable Wireless Concurrency”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
+
+8.	Yuan He, Yilun Zheng, **Meng Jin**, Songzhen Yang, Yunhao Liu, "RED: RFID-based Eccentricity Detection for High-speed Rotating Machinery", IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
+
+9.	**Meng Jin**, Yuan He, Xin Meng, Yilun Zheng, Dingyi Fang, Xiaojiang Chen, “FlipTracer: Practical Parallel Decoding for Backscatter Communication”, IEEE Transections on Networking (TON, CCF-A). 2019
+
+10.	**Meng Jin**, Yuan He, Dingyi Fang, Xiaojiang Chen, Xin Meng, Tianzhang Xing, “iGuard: A Real-Time Anti-Theft System for Smartphones”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2018
+
+
 
 ### Conference:  
 
