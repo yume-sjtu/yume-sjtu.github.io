@@ -70,11 +70,11 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ### Conference:  
 
-1.	**Meng Jin***,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Minature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
+1.	**Meng Jin***,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Miniature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
 
 2.	Fengyuan Zhu, Luwei Feng, **Meng Jin**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou “Towards Ultra-low Power OFDMA Downlink Demodulation”, ACM SenSys 2022 (CCF-B, 清华A类).
 
-3.	**Meng Jin***, Yuan He, Yunhao Liu, Xinbing Wang, "Furtively Connecting IoT Devices with Random Noise", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
+3.	**Meng Jin***, Yuan He, Yunhao Liu, Xinbing Wang, "Furtively Connecting IoT Devices with Acoustic Noise", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
 
 4.	**Meng Jin***, Xinbing Wang, " Pairing IoT Devices with Spatial Keys", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
 
