@@ -90,7 +90,7 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 10.	Zihao Yu, Pengyu Li, Carlo Alberto Boano, Yuan He, Xiuzhen Guo, Xiaolong Zheng and **Meng Jin**. “BiCord: Bidirectional Coordination among Coexisting Wireless Devices”, IEEE ICDCS 2021 (CCF-B).
 
-11.	**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, "Fireworks: Channel Estimation of Parallel Backscatered Signals ", ACM IPSN 2020 (CCF-B, 清华A类).
+11.	**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, "Fireworks: Channel Estimation of Parallel Backscattered Signals ", ACM IPSN 2020 (CCF-B, 清华A类).
 
 12.	Chengkun Jiang, Junchen Guo, Yuan He, **Meng Jin**, Shuai Li, Yunhao Liu, "mmVib: Micrometer-Level Vibration Measurement with mmWave Radar", ACM MobiCom 2020 (CCF-A).
 
