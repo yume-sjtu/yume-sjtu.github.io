@@ -48,8 +48,6 @@ I am always looking for self-motivated students who are interested in pursuing a
 ### Journal:  
 
 1.	**Meng Jin***, Xinbing Wang, Chenghu Zhou, “Key Agreement on IoT Devices with Echo Profiling”, IEEE Transections on Networking (TON, CCF-A). 2022
-
-
 2.	**Meng Jin**, Yuan He, Songzhen Yang, Yunhao Liu, Li Yan, Yuyi Sun, "Versatile RFID-based Sensing: Model, Algorithm, and Applications", IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
 3.	Songzhou Yang, **Meng Jin**, Yuan He, “Continuous Gaze Tracking With Implicit Saliency-Aware Calibration on Mobile Devices” , IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
 4.	Junchen Guo, Yuan He, Chengkun Jiang, **Meng Jin**, Shuai Li, Jia Zhang, Rui Xi, Yunhao Liu, "Measuring Micrometer-Level Vibrations with mmWave Radar", IEEE Transactions on Mobile Computing (TMC, CCF-A). 2021
@@ -64,12 +62,12 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ### Conference:  
 
-1.  **Meng Jin**, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A).
-2.	Tingchao Fan, Huangwei Wu, **Meng Jin**, Tao Chen, Longfei Shangguan, Xinbing Wang, Chenghu Zhou, “Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound”, ACM MobiCom 2023 (CCF-A).
-3.	**Meng Jin**,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Miniature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
+1.  **Meng Jin***, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A).
+2.	Tingchao Fan, Huangwei Wu, **Meng Jin***, Tao Chen, Longfei Shangguan, Xinbing Wang, Chenghu Zhou, “Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound”, ACM MobiCom 2023 (CCF-A).
+3.	**Meng Jin***,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Miniature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
 4.	Fengyuan Zhu, Luwei Feng, **Meng Jin**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou “Towards Ultra-low Power OFDMA Downlink Demodulation”, ACM SenSys 2022 (CCF-B, 清华A类).
-5.	**Meng Jin**, Yuan He, Yunhao Liu, Xinbing Wang, "Furtively Connecting IoT Devices with Acoustic Noise", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
-6.	**Meng Jin**, Xinbing Wang, " Pairing IoT Devices with Spatial Keys", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
+5.	**Meng Jin***, Yuan He, Yunhao Liu, Xinbing Wang, "Furtively Connecting IoT Devices with Acoustic Noise", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
+6.	**Meng Jin***, Xinbing Wang, " Pairing IoT Devices with Spatial Keys", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
 7.	Zihao yu, Xin Na, Carlo Alberto Boano, Yuan He, Xiuzhen Guo, Pengyu Li, **Meng Jin**, "SmarTiSCH: An Interference-Aware Engine for IEEE 802.15.4e-based Networks", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
 8.	Fengyuan Zhu, Mingwei Ouyang, Luwei Feng, Yaoyu Liu, Xiaohua Tian, **Meng Jin**, Dongyao Chen, Xinbing Wang. "Enabling software-defined PHY for backscatter networks" in MobiSys 2022 (CCF-B, 清华A类).
 9.	Junchen Guo, **Meng Jin**, Yuan He, Yunhao Liu, "Dancing Waltz with Ghosts: Measuring Sub-mm-Level 2D Rotor Orbit with a Single mmWave Radar", IEEE/ACM IPSN 2021 (CCF-B, 清华A类).
