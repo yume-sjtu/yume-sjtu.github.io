@@ -62,7 +62,7 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ### Conference:  
 
-1.  **Meng Jin***, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A).
+1.  **Meng Jin***, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/TaGroup.pdf)
 2.	Tingchao Fan, Huangwei Wu, **Meng Jin***, Tao Chen, Longfei Shangguan, Xinbing Wang, Chenghu Zhou, “Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/SoundSpot.pdf)
 3.	**Meng Jin***,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Miniature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
 4.	Fengyuan Zhu, Luwei Feng, **Meng Jin**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou “Towards Ultra-low Power OFDMA Downlink Demodulation”, ACM SenSys 2022 (CCF-B, 清华A类).
