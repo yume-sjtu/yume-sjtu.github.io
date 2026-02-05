@@ -1,13 +1,13 @@
 <img src="./jinmeng.jpg" width = "150" height = "220"  align=left />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Associate Professor</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Professor</strong>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>John Hopcroft Center for Computer Science</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>School of Artificial Intelligence</strong>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shanghai Jiao Tong University</strong>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contact</strong>:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-435, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-437, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinm@sjtu.edu.cn  
 
 
@@ -50,7 +50,7 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 
 ## Thesis Seminar Course <img src="./SJTU_LOGO.png" width="150" height="150" align="right" />
-Every week, select papers related to the theme for collective discussion. The papers are mainly selected from the achievements of top conferences such as SIGCOMM, MobiCom, UbiComp, and Sensys. Through joint reading and research, understand the research progress in the field.
+Each week, we select theme-related papers from top conferences such as SIGCOMM, MobiCom, UbiComp, Mobisys and SenSys for group discussion, helping participants keep up with the latest research developments.
 ### March 28, 2025 Theme: Mobile Computing Theme
 * [Sigcomm'25] Enabling Over-the-Air Al for Edge Computing via Metasurface-Driven Physical Neural Networks.
 * [MobiCom'24] RFMagus: Programming the Radio Environment With NetworkedMetasurfaces.
