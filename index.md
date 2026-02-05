@@ -49,6 +49,14 @@ I am always looking for self-motivated students who are interested in pursuing a
 * [01, 2022] Three papers accepted by IEEE/ACM IPSN 2022.
 
 
+## Thesis Seminar Course <img src="./SJTU_LOGO.png" width="100" height="150" align="right" />
+Every week, select papers related to the theme for collective discussion. The papers are mainly selected from the achievements of top conferences such as SIGCOMM, MobiCom, UbiComp, and Sensys. Through joint reading and research, understand the research progress in the field.
+### March 28, 2025 Theme: Mobile Computing Theme
+* [Sigcomm'25] Enabling Over-the-Air Al for Edge Computing via Metasurface-Driven Physical Neural Networks.
+* [MobiCom'24] RFMagus: Programming the Radio Environment With NetworkedMetasurfaces.
+* [Ubicomp'25] SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception.
+
+
 ## Selected Publications:
 \* Corresponding author
 
