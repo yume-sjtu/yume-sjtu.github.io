@@ -51,10 +51,10 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ## Thesis Seminar Course <img src="./SJTU_LOGO.png" width="150" height="150" align="right" />
 Each week, we select theme-related papers from top conferences such as SIGCOMM, MobiCom, UbiComp, Mobisys and SenSys for group discussion, helping participants keep up with the latest research developments.
-### March 28, 2025 Theme: Mobile Computing Theme
+### December 26, 2025 Theme: Mobile Computing Theme
 * [Sigcomm'25] Enabling Over-the-Air Al for Edge Computing via Metasurface-Driven Physical Neural Networks.
-* [MobiCom'24] RFMagus: Programming the Radio Environment With NetworkedMetasurfaces.
-* [Ubicomp'25] SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception.
+* [MobiCom'24] RFMagus: Programming the Radio Environment With Networked Metasurfaces.
+* [UbiComp'25] SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception.
 
 
 ## Selected Publications:
